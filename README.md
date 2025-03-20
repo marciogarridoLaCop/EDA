@@ -16,20 +16,19 @@ y = -x + 2
 \end{cases}
 $$
 
+Como resultado, sua saída devera apresentar o resultado do sistema de equações e plotar as equações, o ponto x,y 
 
-
+# Exercício 02
 
 O problema que usaremos é bem conhecido e bastante simples. Queremos resolver uma equação de segundo grau, ou seja, dada a equação : 𝒂𝒙𝟐 + 𝒃𝒙 + 𝒄, queremos saber quais são as suas raízes reais, se elas existirem. Desta forma, resolva a função 2𝑥ˆ2 + 2𝑥 − 6.
 
-# Exercício 01
-
+# Exercícios 03
 Um engenheiro de automação capturou durante um período de 30 dias [Dados Climáticos](https://github.com/marciogarridoLaCop/Estrutura-de-dados/blob/EDA/dadosclimaticos.txt), diversos valores de temperatura, umidade e pressão de um ambiente específico. Sabendo que o acumulado de 24 horas foi a resultante de aporte de n ciclos de 10 minutos, calcule:
 
 1) Para todas as grandezas climáticas, os valores mínimos, máximos, médios em 24 horas de um do vigésimo dia;
 2) A quantidade de ciclos por período de coleta neste dia.
 
-
-# Exercícios 02
+# Exercícios 04
 Enunciado: Árvore Genealógica
 
 Imagine que você recebeu a tarefa de criar uma árvore genealógica para uma família. A árvore deve ser capaz de armazenar informações sobre várias gerações de uma família e suas relações.
