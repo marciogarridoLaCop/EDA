@@ -23,10 +23,10 @@ Como resultado, sua saída devera apresentar o resultado do sistema de equaçõe
 O problema que usaremos é bem conhecido e bastante simples. Queremos resolver uma equação de segundo grau, ou seja, dada a equação : 𝒂𝒙𝟐 + 𝒃𝒙 + 𝒄, queremos saber quais são as suas raízes reais, se elas existirem. Desta forma, resolva a função 2𝑥ˆ2 + 2𝑥 − 6.
 
 # Exercícios 03
-![N|Solid](https://github.com/marciogarridoLaCop/EDA/blob/main/grafico.jpg)
-
 
 # **Encontrando um ponto dentro de uma Função**
+
+![N|Solid](https://github.com/marciogarridoLaCop/EDA/blob/main/grafico.jpg)
 
 Como engenheiro de software voce recebeu a missão de encontrar o valor aproximado de \( x \) que faz com que uma determinada função \( f(x) \) seja igual a zero.
 
