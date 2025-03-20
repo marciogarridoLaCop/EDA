@@ -24,7 +24,7 @@ O problema que usaremos é bem conhecido e bastante simples. Queremos resolver u
 
 # Exercícios 03
 
-![N|Solid](https://www.researchgate.net/profile/Osnildo-Carvalho/publication/349734116/figure/fig40/AS:997263232995333@1614777491388/Figura-1-Interpretacao-grafica-do-metodo-da-bissecao_W640.jpg)
+![N|Solid](https://www.researchgate.net/publication/349734116/figure/fig40/AS:997263232995333@1614777491388/Figura-1-Interpretacao-grafica-do-metodo-da-bissecao.png)
 
 # **Encontrando um ponto dentro de uma Função**
 
