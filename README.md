@@ -23,12 +23,43 @@ Como resultado, sua saída devera apresentar o resultado do sistema de equaçõe
 O problema que usaremos é bem conhecido e bastante simples. Queremos resolver uma equação de segundo grau, ou seja, dada a equação : 𝒂𝒙𝟐 + 𝒃𝒙 + 𝒄, queremos saber quais são as suas raízes reais, se elas existirem. Desta forma, resolva a função 2𝑥ˆ2 + 2𝑥 − 6.
 
 # Exercícios 03
+
+![N|Solid](https://www.researchgate.net/profile/Osnildo-Carvalho/publication/349734116/figure/fig40/AS:997263232995333@1614777491388/Figura-1-Interpretacao-grafica-do-metodo-da-bissecao_W640.jpg)
+
+# **Encontrando um ponto dentro de uma Função**
+
+Como engenheiro de software voce recebeu a missão de encontrar o valor aproximado de \( x \) que faz com que uma determinada função \( f(x) \) seja igual a zero.
+
+Para isso, como explicado nas aulas anteriores você sabe que o valor deverá ser investigado dentro de um intervalo \([a, b]\), onde:
+
+- \( f(a) \) e \( f(b) \) possuem sinais opostos (um é positivo e o outro é negativo).
+
+O seu objetivo é criar um algoritmo que, a cada etapa, reduza esse intervalo até obter um valor de \( x \) com um erro aceitável.
+
+## **Passos:**
+1. Escolha um ponto médio \( m \) entre \( a \) e \( b \).
+2. Avalie \( f(m) \).
+3. Se \( f(m) \) for suficientemente próximo de zero, pare. Caso contrário:
+   - Se \( f(m) \) e \( f(a) \) tiverem sinais opostos, então a raiz está entre \( a \) e \( m \), e você deve descartar \( b \).
+   - Caso contrário, o valor de interesse está entre \( m \) e \( b \), e você deve descartar \( a \).
+4. Repita o processo até atingir a precisão desejada.
+
+Aplique esse método para encontrar este ponto na função:
+
+\[
+f(x) = x^3 - x - 2
+\]
+
+no intervalo \([1, 2]\) com uma precisão de \( 10^{-4} \).
+
+
+# Exercícios 04
 Um engenheiro de automação capturou durante um período de 30 dias [Dados Climáticos](https://github.com/marciogarridoLaCop/EDA/blob/main/dadosclimaticos.txt), diversos valores de temperatura, umidade e pressão de um ambiente específico. Sabendo que o acumulado de 24 horas foi a resultante de aporte de n ciclos de 10 minutos, calcule:
 
 1) Para todas as grandezas climáticas, os valores mínimos, máximos, médios em 24 horas de um do vigésimo dia;
 2) A quantidade de ciclos por período de coleta neste dia.
 
-# Exercícios 04
+# Exercícios 05
 Enunciado: Árvore Genealógica
 
 Imagine que você recebeu a tarefa de criar uma árvore genealógica para uma família. A árvore deve ser capaz de armazenar informações sobre várias gerações de uma família e suas relações.
