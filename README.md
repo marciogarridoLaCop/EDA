@@ -5,7 +5,19 @@
 # Conheca o Curso de Engenharia de Software 
 [![N|Solid](https://universidadedevassouras.edu.br/wp-content/uploads/2021/12/Simbolo_Engenharia_de_Software.jpg)](https://universidadedevassouras.edu.br/graduacao-marica/engenharia-de-software/)
 ## Estrutura-de-dados-avançados
-# Exercício 00
+# Exercício 01
+
+Desenvolva um algoritmo que seja capaz de resolver um sistema de equações lineares abaixo 
+
+$$
+\begin{cases}
+y = 0.5x + 0.5 \\
+y = -x + 2
+\end{cases}
+$$
+
+
+
 
 O problema que usaremos é bem conhecido e bastante simples. Queremos resolver uma equação de segundo grau, ou seja, dada a equação : 𝒂𝒙𝟐 + 𝒃𝒙 + 𝒄, queremos saber quais são as suas raízes reais, se elas existirem. Desta forma, resolva a função 2𝑥ˆ2 + 2𝑥 − 6.
 
