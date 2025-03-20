@@ -3,8 +3,7 @@
 
 
 # Conheca o Curso de Engenharia de Software 
-[![N|Solid](https://universidadedevassouras.edu.br/wp-content/uploads/2021/12/Simbolo_Engenharia_de_Software.jpg)(https://universidadedevassouras.edu.br/graduacao-marica/engenharia-de-software/)
-
+[![N|Solid](https://universidadedevassouras.edu.br/wp-content/uploads/2021/12/Simbolo_Engenharia_de_Software.jpg)
 ## Estrutura-de-dados-avançados
 # Exercício 00
 
