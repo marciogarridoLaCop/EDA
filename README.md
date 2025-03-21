@@ -5,6 +5,12 @@
 # Conheca o Curso de Engenharia de Software 
 [![N|Solid](https://universidadedevassouras.edu.br/wp-content/uploads/2021/12/Simbolo_Engenharia_de_Software.jpg)](https://universidadedevassouras.edu.br/graduacao-marica/engenharia-de-software/)
 ## Estrutura-de-dados-avançados
+
+Como fazer organizar seus exercícios.
+
+[Regras de contrução](https://github.com/marciogarridoLaCop/EDA/blob/main/como_fazer/readme.md)
+
+
 # Exercício 01
 
 Desenvolva um algoritmo que seja capaz de resolver um sistema de equações lineares abaixo 
