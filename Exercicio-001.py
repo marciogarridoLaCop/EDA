@@ -21,3 +21,14 @@ plt.plot(x, y2, label=r'$y = -x + 2$', color='red')
 
 plt.scatter(1, 1, color='green', zorder=5)
 plt.text(1, 1, '(1, 1)', fontsize=12, verticalalignment='bottom')
+
+plt.xlim(-2, 3)
+plt.ylim(-2, 3)
+
+
+plt.title("Solução do sistema de equações lineares")
+plt.xlabel("x")
+plt.ylabel("y")
+plt.axhline(0, color='black',linewidth=0.5)
+plt.axvline(0, color='black',linewidth=0.5)
+plt.grid(True)
