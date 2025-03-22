@@ -32,3 +32,7 @@ plt.ylabel("y")
 plt.axhline(0, color='black',linewidth=0.5)
 plt.axvline(0, color='black',linewidth=0.5)
 plt.grid(True)
+
+plt.legend()
+
+plt.show()
