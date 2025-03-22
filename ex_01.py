@@ -22,8 +22,11 @@ def cria_vetores(max_X):
         vals_y2.append(y2)
         vals_y3.append(y3)
         vals_x.append(i)
+<<<<<<< HEAD
         if y1 == y2:
             plt.scatter(i,y1, color="black", label="interseção")
+=======
+>>>>>>> 51aa469a0c2af86df59b1dd6fb76e7b2531c0f3e
     return vals_x, vals_y1, vals_y2, vals_y3
     
 def des_linha(vals_x, vals_y1, vals_y2, vals_y3):
